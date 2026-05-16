@@ -310,6 +310,7 @@ Click **Import** → select the downloaded file.
 
 ## Results
 
+![SOC Dashboard](screenshots/Wazuh_Dashboard_Security_events.png)
 - **16,755+** total alerts generated
 - **11,206** authentication failures detected
 - **Automatic IP blocking** via iptables confirmed
